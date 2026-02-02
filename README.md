@@ -1,4 +1,4 @@
-# Training-Final-Project
+
 Technologies used: 
 CoAP | UDP Sockets | Embedded C | GPIO Interfacing | IoT Networking | Sensor Integration
 
